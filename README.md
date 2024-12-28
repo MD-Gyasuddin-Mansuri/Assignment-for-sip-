@@ -1,1 +1,2 @@
-# Assignment-for-SIP
+# Assignment-of-SIP
+(Social Innovation Project)
